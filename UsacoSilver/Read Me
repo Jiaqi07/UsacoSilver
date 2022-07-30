@@ -1,0 +1,14 @@
+Started Studying for Usaco Silver on Dec 18, 2021
+
+Problems Solved:
+   1. Breed Counting(Prefix Sum-15/15) - 12/28/2021, http://www.usaco.org/index.php?page=viewproblem2&cpid=572#
+   2. Subsequences Summing to Sevens(Prefix Sum-8/10)(Prefix Sum Modded-7/10)(Prefix Sum Modded + FirstFound Vector-10/10) - 12/29/2021, http://www.usaco.org/index.php?page=viewproblem2&cpid=595 REDO IN FUTURE
+   3. Haybale Stacking(Prefix Sum-Idk, prob right) - 12/29/2021, http://www.usaco.org/index.php?page=viewproblem2&cpid=104 IMPORTANT CONCEPT OF ADDING IN FRONT Index AND SUBTRACTING AT BACK+1 Index of given intervals.
+   4. Painting The Barn(2D Prefix Sum Seperate-10/10, 2D Formula- 10/10(WAY FASTER)) - 12/30/2021, http://www.usaco.org/index.php?page=viewproblem2&cpid=919 DEFINITELY REDO IN FUTURE
+   5. Lifeguards(
+   6. PairedUp(Two Pointers-10/10) - 12/31/2021, http://www.usaco.org/index.php?page=open17results
+   7. Lemonade Line(Greedy Algorithm-10/10) - 12/31/2021, http://www.usaco.org/index.php?page=viewproblem2&cpid=835
+   8. High Card Wins(Greedy/Sorting/Two Pointer-10/10) - 12/31/2021, http://www.usaco.org/index.php?page=viewproblem2&cpid=571 REDO Future
+   9. Convention(Binary Search-10/10) - 1/1/2022, http://www.usaco.org/index.php?page=viewproblem2&cpid=858 REDO FOR SURE FOR SURE CUZ IM STUPID AT BINARY SEARCH
+   10. MooCast(DFS-/10) - 1/1/2022, http://www.usaco.org/index.php?page=viewproblem2&cpid=668
+   11. Cowntagion
